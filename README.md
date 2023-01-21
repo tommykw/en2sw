@@ -9,6 +9,7 @@ $ npm i -g en2sw
 ```
 
 ## Usage
+
 Searching English words with Swahili words.
 
 ```
@@ -25,5 +26,3 @@ Searching English words with Swahili words...
 ## License
 
 MIT
-
-
