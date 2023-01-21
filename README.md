@@ -1,5 +1,14 @@
 # en2sw
 
+<p align="left">
+  <a href="https://npm.im/tommy-kw">
+    <img src="https://badgen.net/npm/v/en2sw">
+  </a>
+  <a href="https://github.com/tommykw/en2sw/actions?workflow=CI">
+    <img src="https://github.com/tommykw/en2sw/workflows/CI/badge.svg">
+  </a>
+</p>
+
 `en2sw` translates from English words to Swahili words. It is a small dictionary for reviewing learned Swahili words.
 
 ## Installation
