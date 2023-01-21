@@ -1,7 +1,7 @@
 # en2sw
 
 <p align="left">
-  <a href="https://npm.im/tommy-kw">
+  <a href="https://npm.im/en2sw">
     <img src="https://badgen.net/npm/v/en2sw">
   </a>
   <a href="https://github.com/tommykw/en2sw/actions?workflow=CI">
